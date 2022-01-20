@@ -31,7 +31,7 @@ logo1=
 
 
 
-print(logo)
+print(logo1)
 print("Welcome to our website")
 print("please login")
 user="ROBOT"
